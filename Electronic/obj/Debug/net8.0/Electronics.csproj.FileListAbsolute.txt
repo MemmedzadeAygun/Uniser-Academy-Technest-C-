@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\bin\Debug\net8.0\Electronics.exe
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\bin\Debug\net8.0\Electronics.deps.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\bin\Debug\net8.0\Electronics.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\bin\Debug\net8.0\Electronics.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\bin\Debug\net8.0\Electronics.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\obj\Debug\net8.0\Electronics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\obj\Debug\net8.0\Electronics.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\obj\Debug\net8.0\Electronics.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\obj\Debug\net8.0\Electronics.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\obj\Debug\net8.0\Electronics.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\obj\Debug\net8.0\refint\Electronics.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\obj\Debug\net8.0\Electronics.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\obj\Debug\net8.0\Electronics.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Electronic\obj\Debug\net8.0\ref\Electronics.dll

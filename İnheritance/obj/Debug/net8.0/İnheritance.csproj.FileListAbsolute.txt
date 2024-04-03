@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\bin\Debug\net8.0\İnheritance.exe
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\bin\Debug\net8.0\İnheritance.deps.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\bin\Debug\net8.0\İnheritance.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\bin\Debug\net8.0\İnheritance.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\bin\Debug\net8.0\İnheritance.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\obj\Debug\net8.0\İnheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\obj\Debug\net8.0\İnheritance.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\obj\Debug\net8.0\İnheritance.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\obj\Debug\net8.0\İnheritance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\obj\Debug\net8.0\İnheritance.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\obj\Debug\net8.0\refint\İnheritance.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\obj\Debug\net8.0\İnheritance.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\obj\Debug\net8.0\İnheritance.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\İnheritance\obj\Debug\net8.0\ref\İnheritance.dll

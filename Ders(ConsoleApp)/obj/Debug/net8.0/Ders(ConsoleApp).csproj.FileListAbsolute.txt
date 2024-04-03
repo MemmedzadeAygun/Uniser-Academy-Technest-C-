@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\bin\Debug\net8.0\Ders(ConsoleApp).exe
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\bin\Debug\net8.0\Ders(ConsoleApp).deps.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\bin\Debug\net8.0\Ders(ConsoleApp).runtimeconfig.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\bin\Debug\net8.0\Ders(ConsoleApp).dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\bin\Debug\net8.0\Ders(ConsoleApp).pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\obj\Debug\net8.0\Ders(ConsoleApp).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\obj\Debug\net8.0\Ders(ConsoleApp).AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\obj\Debug\net8.0\Ders(ConsoleApp).AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\obj\Debug\net8.0\Ders(ConsoleApp).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\obj\Debug\net8.0\Ders(ConsoleApp).dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\obj\Debug\net8.0\refint\Ders(ConsoleApp).dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\obj\Debug\net8.0\Ders(ConsoleApp).pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\obj\Debug\net8.0\Ders(ConsoleApp).genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Ders(ConsoleApp)\obj\Debug\net8.0\ref\Ders(ConsoleApp).dll

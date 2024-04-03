@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Home_Task_if_else_case/1.0.0": {
+        "runtime": {
+          "Home_Task_if_else_case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Home_Task_if_else_case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

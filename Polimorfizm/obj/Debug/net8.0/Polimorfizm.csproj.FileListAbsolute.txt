@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\bin\Debug\net8.0\Polimorfizm.exe
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\bin\Debug\net8.0\Polimorfizm.deps.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\bin\Debug\net8.0\Polimorfizm.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\bin\Debug\net8.0\Polimorfizm.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\bin\Debug\net8.0\Polimorfizm.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\obj\Debug\net8.0\Polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\obj\Debug\net8.0\Polimorfizm.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\obj\Debug\net8.0\Polimorfizm.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\obj\Debug\net8.0\Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\obj\Debug\net8.0\Polimorfizm.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\obj\Debug\net8.0\refint\Polimorfizm.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\obj\Debug\net8.0\Polimorfizm.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\obj\Debug\net8.0\Polimorfizm.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Polimorfizm\obj\Debug\net8.0\ref\Polimorfizm.dll

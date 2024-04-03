@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\bin\Debug\net8.0\Menyu.exe
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\bin\Debug\net8.0\Menyu.deps.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\bin\Debug\net8.0\Menyu.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\bin\Debug\net8.0\Menyu.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\bin\Debug\net8.0\Menyu.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\obj\Debug\net8.0\Menyu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\obj\Debug\net8.0\Menyu.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\obj\Debug\net8.0\Menyu.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\obj\Debug\net8.0\Menyu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\obj\Debug\net8.0\Menyu.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\obj\Debug\net8.0\refint\Menyu.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\obj\Debug\net8.0\Menyu.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\obj\Debug\net8.0\Menyu.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Menyu\obj\Debug\net8.0\ref\Menyu.dll

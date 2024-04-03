@@ -1,0 +1,4 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Person\obj\Debug\net8.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Person\obj\Debug\net8.0\Person.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Person\obj\Debug\net8.0\Person.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\Person\obj\Debug\net8.0\Person.csproj.CoreCompileInputs.cache

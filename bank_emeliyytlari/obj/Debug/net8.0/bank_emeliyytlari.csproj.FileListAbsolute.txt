@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\bin\Debug\net8.0\bank_emeliyytlari.exe
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\bin\Debug\net8.0\bank_emeliyytlari.deps.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\bin\Debug\net8.0\bank_emeliyytlari.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\bin\Debug\net8.0\bank_emeliyytlari.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\bin\Debug\net8.0\bank_emeliyytlari.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\obj\Debug\net8.0\bank_emeliyytlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\obj\Debug\net8.0\bank_emeliyytlari.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\obj\Debug\net8.0\bank_emeliyytlari.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\obj\Debug\net8.0\bank_emeliyytlari.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\obj\Debug\net8.0\bank_emeliyytlari.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\obj\Debug\net8.0\refint\bank_emeliyytlari.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\obj\Debug\net8.0\bank_emeliyytlari.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\obj\Debug\net8.0\bank_emeliyytlari.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\bank_emeliyytlari\obj\Debug\net8.0\ref\bank_emeliyytlari.dll

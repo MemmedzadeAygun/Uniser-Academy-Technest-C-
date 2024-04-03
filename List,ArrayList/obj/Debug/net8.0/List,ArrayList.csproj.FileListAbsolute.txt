@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\bin\Debug\net8.0\List,ArrayList.exe
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\bin\Debug\net8.0\List,ArrayList.deps.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\bin\Debug\net8.0\List,ArrayList.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\bin\Debug\net8.0\List,ArrayList.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\bin\Debug\net8.0\List,ArrayList.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\obj\Debug\net8.0\List,ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\obj\Debug\net8.0\List,ArrayList.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\obj\Debug\net8.0\List,ArrayList.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\obj\Debug\net8.0\List,ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\obj\Debug\net8.0\List,ArrayList.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\obj\Debug\net8.0\refint\List,ArrayList.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\obj\Debug\net8.0\List,ArrayList.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\obj\Debug\net8.0\List,ArrayList.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\List,ArrayList\obj\Debug\net8.0\ref\List,ArrayList.dll

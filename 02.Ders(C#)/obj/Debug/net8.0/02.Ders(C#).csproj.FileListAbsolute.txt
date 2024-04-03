@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\bin\Debug\net8.0\02.Ders(C#).exe
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\bin\Debug\net8.0\02.Ders(C#).deps.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\bin\Debug\net8.0\02.Ders(C#).runtimeconfig.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\bin\Debug\net8.0\02.Ders(C#).dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\bin\Debug\net8.0\02.Ders(C#).pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\obj\Debug\net8.0\02.Ders(C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\obj\Debug\net8.0\02.Ders(C#).AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\obj\Debug\net8.0\02.Ders(C#).AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\obj\Debug\net8.0\02.Ders(C#).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\obj\Debug\net8.0\02.Ders(C#).dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\obj\Debug\net8.0\refint\02.Ders(C#).dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\obj\Debug\net8.0\02.Ders(C#).pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\obj\Debug\net8.0\02.Ders(C#).genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\02.Ders(C#)\obj\Debug\net8.0\ref\02.Ders(C#).dll

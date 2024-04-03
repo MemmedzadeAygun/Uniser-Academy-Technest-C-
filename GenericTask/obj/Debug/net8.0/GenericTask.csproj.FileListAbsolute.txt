@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\bin\Debug\net8.0\GenericTask.exe
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\bin\Debug\net8.0\GenericTask.deps.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\bin\Debug\net8.0\GenericTask.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\bin\Debug\net8.0\GenericTask.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\bin\Debug\net8.0\GenericTask.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\obj\Debug\net8.0\GenericTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\obj\Debug\net8.0\GenericTask.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\obj\Debug\net8.0\GenericTask.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\obj\Debug\net8.0\GenericTask.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\obj\Debug\net8.0\GenericTask.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\obj\Debug\net8.0\refint\GenericTask.dll
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\obj\Debug\net8.0\GenericTask.pdb
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\obj\Debug\net8.0\GenericTask.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Uniser Technest Backend\GenericTask\obj\Debug\net8.0\ref\GenericTask.dll
